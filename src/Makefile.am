@@ -1,5 +1,5 @@
 instdir=$(includedir)
-inst_HEADERS = lru_cache.h
+inst_HEADERS = lru_cache.h lru_cache.hxx
 
 # unit tests
 TESTS = unit_lru_cache
